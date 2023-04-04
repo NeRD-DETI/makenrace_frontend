@@ -16,7 +16,7 @@ import SignUp from './pages/SignUp';
 import ResetPassword from './pages/ResetPassword';
 import MakeNRace from './pages/MakeNRace';
 import Participacao from './pages/Participacao';
-import Projetos from './pages/Projetos';
+import Projetos from './pages/Projetos/Projetos';
 import Sobre from './pages/Sobre';
 
 function App() {
